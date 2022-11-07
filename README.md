@@ -1,4 +1,4 @@
 # financial research
-database
-models
-backtesting
+database  
+models  
+backtesting  
